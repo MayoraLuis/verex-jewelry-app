@@ -49,9 +49,9 @@ El desarrollo se fundamenta en una separación estricta de responsabilidades baj
 * **Interfaz de Consola (`Main.kt`):** Sistema de menús interactivos con validación estricta de tipos de datos, previniendo cierres inesperados por entradas numéricas erróneas.
 
 ---
-## Estructura del Proyecto
-verex-jewelry-app/
-│
+<h2> Estructura del Proyecto</h2>
+
+<pre><code>verex-jewelry-app/
 ├── src/
 │   ├── controller/
 │   │   ├── JoyaController.kt       # Gestión del catálogo y operaciones CRUD
@@ -74,7 +74,7 @@ verex-jewelry-app/
 │
 ├── log_errores_verex.txt           # Archivo de persistencia de errores y excepciones
 ├── .gitignore                      # Exclusión de binarios y archivos temporales
-└── README.md                       # Documentación técnica y datos de entrega
+└── README.md                       # Documentación técnica y datos de entrega</code></pre>
 
 ---
 
