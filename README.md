@@ -9,9 +9,9 @@
 ---
 
 ## Integrante del Equipo
-| Nombre Completo | Carnet / Usuario GitHub | Rol en el Proyecto |
+| Nombre Completo | Carnet  | Rol en el Proyecto |
 | :--- | :--- | :--- |
-| Luis Ernesto Mayora Claros | @MayoraLuis | Arquitectura Base, Dominio y Logging |
+| Luis Ernesto Mayora Claros |MC090391 | Arquitectura Base, Dominio y Logging |
 
 ---
 
